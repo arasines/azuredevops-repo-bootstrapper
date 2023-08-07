@@ -16,7 +16,7 @@ These types of repo synchronization coudl be extremely usefull when a reference 
 <ol>
 <li>Open <code>Bootstrap.cmd</code> and replace the string <AZURE_DEVOPS_REPO_URL> with the you URL</li>
 <li>Open <code>Bootstrap.csx</code> to configure define the update , ignored and add-only folders. Ad-Hoc replacements are also available.</li>
-<li>Execute the CMD file.</li>
+<li>Execute the <code>Bootstrap.cmd</code> file.</li>
 <li>Check for the results.</li>
 <li>Start/continue you own coding and happy coding!</li>
 </ol>
