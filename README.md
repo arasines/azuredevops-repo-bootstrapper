@@ -1,7 +1,8 @@
 # Azure DevOps Repositoy Bootstrapper
-This program aims to achieve a seamless synchronization process between an Azure DevOps Repository and a local repository. By utilizing smart synchronization techniques, it ensures that the most up-to-date code and assets are always mirrored between the two environments.
+This program aims to achieve a seamless synchronization process between an Azure DevOps Repository and a local repository. 
+By utilizing smart synchronization techniques, it ensures that the most up-to-date code and assets are always mirrored between the two environments.
 
-## Key features of this program include:
+## Key Features
 
 *Automatic Detection*: The program intelligently detects changes in the Azure DevOps Repository and only synchronizes modified or new files, reducing unnecessary data transfer.
 *Efficient Data Transfer*: Through optimized algorithms, the program minimizes data transfer times while ensuring the integrity of the transferred files.
