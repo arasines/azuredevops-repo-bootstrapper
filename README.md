@@ -4,8 +4,8 @@ By utilizing smart synchronization techniques, it ensures that the most up-to-da
 
 ## Key Features
 <ul>
-<li>*Automatic Detection*: The program intelligently detects changes in the Azure DevOps Repository and only synchronizes modified or new files, reducing unnecessary data transfer.</li>
-<li>*Efficient Data Transfer*: Through optimized algorithms, the program minimizes data transfer times while ensuring the integrity of the transferred files.</li>
-<li>*Customizable Sync Settings*: Users have the flexibility to define synchronization intervals, specific branches, and exclusion rules to tailor the synchronization process to their project's needs.</li>
-<li>*Error Handling*: The program incorporates robust error-handling mechanisms to manage unexpected scenarios and provide clear error messages to users.</li>
+<li><i>Automatic Detection</i>: The program intelligently detects changes in the Azure DevOps Repository and only synchronizes modified or new files, reducing unnecessary data transfer.</li>
+<li><i>Efficient Data Transfer</i>: Through optimized algorithms, the program minimizes data transfer times while ensuring the integrity of the transferred files.</li>
+<li><i>Customizable Sync Settings</i>: Users have the flexibility to define synchronization intervals, specific branches, and exclusion rules to tailor the synchronization process to their project's needs.</li>
+<li><i>Error Handling</i>: The program incorporates robust error-handling mechanisms to manage unexpected scenarios and provide clear error messages to users.</li>
 </ul>
